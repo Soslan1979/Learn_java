@@ -5,7 +5,7 @@ class Book {
     String bookName;
     Book() {
         Book b1 = new Book();
-        b1.bookName = "Java OCA";
+        b1.bookName = "Java test OCA";
     }
 }
 
